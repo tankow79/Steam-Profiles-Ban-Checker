@@ -1,4 +1,5 @@
 
+# Steam-Profiles-Ban-Checker (JSON/XLSX)
 # Steam maFile → Bans Reporter (JSON/XLSX)
 *UA/EN Цей README двомовний (Ukrainian & English).**
 
